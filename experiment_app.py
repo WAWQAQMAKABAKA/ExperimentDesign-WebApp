@@ -18,9 +18,9 @@ def save_to_google_sheets(df, sheet_name="Responses"):
     for _, row in df.iterrows():
         sheet.append_row(row.astype(str).tolist())
 
-st.markdown("### 🔍 Debug Secrets Format")
-st.write("Type of GSPREAD_KEY:", type(st.secrets["GSPREAD_KEY"]))
-st.write("GSPREAD_KEY content:", st.secrets["GSPREAD_KEY"])
+# st.markdown("### Debug Secrets Format")
+# st.write("Type of GSPREAD_KEY:", type(st.secrets["GSPREAD_KEY"]))
+# st.write("GSPREAD_KEY content:", st.secrets["GSPREAD_KEY"])
 
 
 with open("stimuli.json", "r") as f:
