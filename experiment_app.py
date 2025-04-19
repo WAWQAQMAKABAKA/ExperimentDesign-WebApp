@@ -15,8 +15,8 @@ def save_to_google_sheets(df, sheet_name="Responses"):
     creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
     client = gspread.authorize(creds)
     sheet = client.open("Trivia_Responses").worksheet(sheet_name)
-    for _, row in df.iterrows():
-        sheet.append_row(row.astype(str).tolist())
+    sheet.append_rows(df.astype(str).values.tolist())  # ✅ MUCH FASTER AND SAFER
+
 
 # st.markdown("### Debug Secrets Format")
 # st.write("Type of GSPREAD_KEY:", type(st.secrets["GSPREAD_KEY"]))
