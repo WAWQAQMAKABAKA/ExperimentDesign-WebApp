@@ -17,13 +17,13 @@ Participants are shown trivia statements, some accompanied by images, and asked 
 
 ```
 Project3_5243/
-├── experiment_app.py          # Main Streamlit application
-├── stimuli.json               # Contains all trivia statements and metadata
-├── image_folder/              # Folder of images referenced in the study
-├── result.csv                 # Data output file from completed participant responses
-├── Analysisv1.ipynb           # Statistical analysis and visualization notebook
-├── requirements.txt           # Python dependencies
-└── README.md                  # You are here
+├── experiment_app.py                                      # Main Streamlit application
+├── stimuli.json                                           # Contains all trivia statements and metadata
+├── image_folder/                                          # Folder of images referenced in the study
+├── result.csv                                             # Data output file from completed participant responses
+├── Analysisv2.ipynb and project3_a_b_test.ipynb           # Statistical analysis and visualization notebook
+├── requirements.txt                                       # Python dependencies
+└── README.md                                              # You are here
 ```
 
 ### Running the App
