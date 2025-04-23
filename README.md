@@ -56,7 +56,7 @@ streamlit run experiment_app.py
 ### Acknowledgements
 This project was conducted for educational purposes as part of a course assignment. No formal IRB approval was obtained, but ethical guidelines were followed with informed consent and a debriefing section included in the app.
 
-### Live Demo (if applicable)
+### Live Demo
 Deployed on Streamlit Cloud: [[Streamlit Cloud link here](https://project35243-6yvhmwmldeqrn63pytqunj.streamlit.app/)]
 
 ---
