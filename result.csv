@@ -1,0 +1,558 @@
+id,explain/emotion,true/false,showing picture or not,user answer,user response,response time
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,FALSE,FALSE,FALSE,prob,35.51
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,TRUE,TRUE,FALSE,prob,84.56
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,FALSE,TRUE,FALSE,not really,95.62
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,TRUE,TRUE,TRUE,yes,104.8
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,FALSE,TRUE,TRUE,likely yes,113.93
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,FALSE,TRUE,FALSE,no probably,127.87
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,FALSE,TRUE,TRUE,yeah,138.03
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,FALSE,FALSE,FALSE,no probably,165.81
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,TRUE,TRUE,FALSE,I do not think so hmm,182.68
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,FALSE,FALSE,TRUE,yeah,192.79
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,TRUE,FALSE,TRUE,yeah likely,202.2
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,TRUE,FALSE,FALSE,unicorn exists?,215.08
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,TRUE,TRUE,FALSE,butterfly?,228.28
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,TRUE,FALSE,TRUE,yea,235.63
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,FALSE,FALSE,TRUE,yeah likely,252.4
+f0a1bd56-d634-4143-a42e-f74b2e2efc2e,Explain,TRUE,FALSE,FALSE,probably,24.87
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,TRUE,TRUE,TRUE,Bonnet is kool hat 👍,109.47
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,FALSE,FALSE,TRUE,I see sparrows everywhere,148.77
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,FALSE,FALSE,FALSE,"No, them kids vape now",195.5
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,TRUE,FALSE,TRUE,Idk but I hope so,210.2
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,TRUE,FALSE,TRUE,SCOTSLAAAAAAAND,227.36
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,TRUE,TRUE,FALSE,gimme a cuppa sergeant,256.91
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,FALSE,FALSE,FALSE,I know people from yunnan,306.31
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,TRUE,TRUE,TRUE,Yeah how else they know each other,328.74
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,FALSE,TRUE,TRUE,They are just like me....,372.42
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,FALSE,TRUE,FALSE,that sounds like a vtuber,402.65
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,TRUE,FALSE,FALSE,that sounds like a pokemon,431.21
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,FALSE,FALSE,FALSE,Vsauce told me its through detecting heat,478.46
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,TRUE,TRUE,FALSE,Dont koalas not have fingerprints at all?,500.74
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,TRUE,FALSE,FALSE,"Sounds about right for practical effects, but titanium is too expensive to be used as visual props",551.3
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,FALSE,TRUE,FALSE,I think i saw it somewhere that its not nuts,587.33
+ad7413b0-cc24-40e4-bf8f-98d6ac43474c,Explain,FALSE,TRUE,FALSE,I dont think bees tend to do funeral dances,684.13
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,TRUE,TRUE,FALSE,"I'm not sure whether cows have the concept of ""name"" in their mind.",63.61
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,FALSE,FALSE,FALSE,deep purple was assoicated with royalty?,105.77
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,TRUE,FALSE,FALSE,i dont know,124.66
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,FALSE,FALSE,FALSE,what is legume?,156.03
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,FALSE,TRUE,FALSE,No idea,204.65
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,FALSE,TRUE,TRUE,always increase,223.73
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,TRUE,TRUE,FALSE,from scotland?,238.29
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,FALSE,TRUE,FALSE,"definitely unique, but they use that for identification?",286.22
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,FALSE,TRUE,FALSE,maybe more? cause bamboo is hard to bite~,312.45
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,TRUE,FALSE,FALSE,really?! i hope not,333.64
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,FALSE,FALSE,TRUE,maybe? if rotten grapes also take into consideration~,369.94
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,TRUE,FALSE,TRUE,maybe?,384.15
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,TRUE,TRUE,FALSE,does it the only one?,403.07
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,TRUE,FALSE,FALSE,plants can feel?,426.74
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,FALSE,FALSE,FALSE,just cannot understand how can this be regarded as a question. What are you trying to ask?,496.06
+70ea5368-33c4-43e9-b993-71cdfe06dcb2,Explain,TRUE,TRUE,FALSE,"wider? which aspect of ""width"" are you referring to?",568.42
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,TRUE,FALSE,TRUE,normal,37
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,FALSE,FALSE,TRUE,makes sense,68.07
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,FALSE,FALSE,FALSE,mispunctuation feels unconvincing,125.29
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,TRUE,TRUE,TRUE,looks like a biography,182.03
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,FALSE,TRUE,TRUE,"new knowledge, short sentence feels professional",212.32
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,TRUE,TRUE,TRUE,na,220.76
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,TRUE,TRUE,TRUE,scientific,236.87
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,TRUE,FALSE,TRUE,good,243.66
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,TRUE,TRUE,FALSE,lack of evidence,265.56
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,FALSE,TRUE,TRUE,good,276.35
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,FALSE,TRUE,TRUE,good,280.53
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,TRUE,FALSE,TRUE,good,286.31
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,FALSE,TRUE,FALSE,"even with a pic, I don't believe it",322.11
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,FALSE,FALSE,TRUE,good,330.04
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,FALSE,FALSE,TRUE,looks right,342.72
+9e96f3a6-59b9-4b4a-a6d0-77b1ce31afea,Emotion,TRUE,FALSE,FALSE,doubt it,356.74
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,FALSE,FALSE,FALSE,Boo,5.37
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,FALSE,TRUE,FALSE,Fggg,14.9
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,FALSE,TRUE,FALSE,Rrfg,17.51
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,TRUE,TRUE,FALSE,Cfffg,20.22
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,TRUE,TRUE,TRUE,Ffggxc,23.39
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,FALSE,TRUE,FALSE,Drfyyhhh,27.21
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,FALSE,TRUE,TRUE,Resdddeddrreeeee,33.89
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,TRUE,TRUE,TRUE,Wwwwwwweee,54.74
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,TRUE,FALSE,FALSE,.,165.51
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,FALSE,FALSE,TRUE,A,168.57
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,TRUE,FALSE,TRUE,D,171.03
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,FALSE,FALSE,TRUE,W,173.5
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,TRUE,TRUE,TRUE,W,177.39
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,FALSE,FALSE,TRUE,A,181.67
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,TRUE,FALSE,FALSE,A,184.21
+1280a0d0-a38a-4e8a-b68b-b5c063582ed7,Explain,TRUE,FALSE,FALSE,W,187.27
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,FALSE,TRUE,FALSE,hate mosquios,14.66
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,TRUE,TRUE,TRUE,interesting,22.08
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,FALSE,TRUE,FALSE,huh?,38.66
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,FALSE,FALSE,FALSE,confusion,57.25
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,TRUE,FALSE,TRUE,interesting,68.07
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,TRUE,TRUE,FALSE,hmm,81.12
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,FALSE,FALSE,FALSE,tired,99.08
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,FALSE,TRUE,TRUE,interesting,114.47
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,FALSE,FALSE,TRUE,confused,126.16
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,FALSE,FALSE,TRUE,hate frogs,151.05
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,TRUE,FALSE,FALSE,idk,163.6
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,TRUE,FALSE,TRUE,joy(i actually know this one,178.03
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,TRUE,FALSE,TRUE,good memory back to quiz bowl,196.74
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,FALSE,TRUE,TRUE,inspiring,209.88
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,TRUE,TRUE,TRUE,something i heard before intereting,231.67
+4f9d5a2d-2244-4d28-960b-16344bdcafb7,Emotion,TRUE,TRUE,TRUE,hmm,241.02
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,FALSE,FALSE,TRUE,Thinking about Pokémon,29.41
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,FALSE,FALSE,TRUE,Interesting,48.31
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,TRUE,FALSE,FALSE,I don’t know,65
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,TRUE,TRUE,FALSE,Why,82.63
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,TRUE,FALSE,TRUE,Might be,96.84
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,FALSE,FALSE,TRUE,Don’t know,111.47
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,TRUE,TRUE,FALSE,Really,135.94
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,FALSE,TRUE,TRUE,Should be,146.11
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,FALSE,TRUE,FALSE,Don’t know,165.41
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,FALSE,TRUE,TRUE,Want to see,184.16
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,FALSE,TRUE,TRUE,No feel,199.25
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,TRUE,FALSE,TRUE,Don’t know,213.19
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,TRUE,TRUE,FALSE,Interesting,229.06
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,FALSE,FALSE,FALSE,Really?,244.89
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,TRUE,FALSE,TRUE,No feel,262.41
+57baed1b-271d-4c16-9d2c-e248ab7784ea,Explain,TRUE,TRUE,FALSE,No feel,302.02
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,TRUE,TRUE,FALSE,there's no such animal!!!,14.72
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,TRUE,FALSE,TRUE,that big influence? but maybe,45.47
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,FALSE,FALSE,TRUE,maybe,60.17
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,TRUE,TRUE,TRUE,"I KNOW!!!
+",74.98
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,FALSE,TRUE,FALSE,REALLY?,86.42
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,FALSE,TRUE,FALSE,i don't think so. jam is 果酱，jelly is果冻。在中文里有区别！,126.69
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,TRUE,FALSE,TRUE,maybe,135.06
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,FALSE,FALSE,TRUE,maybe,143.52
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,TRUE,TRUE,TRUE,I KNOW! IT'S TRUE!!!,156.94
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,TRUE,FALSE,TRUE,maybe?,171.09
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,TRUE,TRUE,TRUE,i think so,184.54
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,FALSE,TRUE,TRUE,maybe,195.46
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,FALSE,TRUE,FALSE,really?,204.33
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,TRUE,FALSE,TRUE,maybe,215.93
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,FALSE,FALSE,TRUE,maybe,235.22
+676aa940-64e2-4414-be98-c68e6055fec0,Explain,FALSE,FALSE,TRUE,i wish,245.25
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,TRUE,FALSE,TRUE,Nothing,102.39
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,FALSE,FALSE,FALSE,Weird,160.16
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,TRUE,TRUE,TRUE,Funny,207.64
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,FALSE,FALSE,FALSE,They are just insects lol,650.32
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,FALSE,TRUE,FALSE,Ridiculous. They are totally different!! You never put jelly on your bread!!,792.03
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,FALSE,TRUE,FALSE,I don't know...,832.59
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,TRUE,TRUE,FALSE,Funny,858.2
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,FALSE,TRUE,TRUE,That is common sense.,881.96
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,FALSE,FALSE,TRUE,It seems make sense.,920.47
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,FALSE,TRUE,FALSE,I don't know,968.11
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,TRUE,FALSE,TRUE,It seems right hhh,1008.73
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,TRUE,FALSE,FALSE,Is that a joke hhh,1040.01
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,FALSE,FALSE,FALSE,"If they provide related courses about wine, that will be interesting and attractive hhh",1120.55
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,TRUE,FALSE,FALSE,Maybe other kinds of sharks are omnivores?,1202.78
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,TRUE,TRUE,TRUE,It is a fun fact,1305.34
+7a0c17cf-112c-4236-8963-b5c539f6e741,Emotion,TRUE,TRUE,FALSE,Is that possible? I cannot believe it hhh,1364
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,FALSE,FALSE,FALSE,"It is generally believed that there is still a certain degree of discrimination in the US job market. Women's income is slightly lower than that of men, and they do not have any special advantages even in the broadcasting industry.",100.52
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,FALSE,TRUE,FALSE,Mosquitoes use carbon dioxide emissions to determine the presence of prey,234.27
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,TRUE,TRUE,FALSE,"The smell of grass sap, unless the grass itself is intact, has this smell. Plants generally do not have scent glands.",311.08
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,TRUE,FALSE,TRUE,That seems ‘yes’ in my memory.,518.08
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,TRUE,FALSE,TRUE,"I thought it should be correct, and I checked it and it turned out to be correct.",588
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,FALSE,TRUE,TRUE,I think hide-and-seek is a children's game that has evolved in all civilizations around the world. I think it should be some kind of instinct engraved in our genes.,750.34
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,FALSE,TRUE,FALSE,Whether it is toxic depends on the cooking method,783.1
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,FALSE,FALSE,FALSE,How about red and green color blindness?,814.78
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,TRUE,FALSE,TRUE,"Hello, can you call me Gigi?",850.09
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,FALSE,FALSE,FALSE,commen sense,957.16
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,TRUE,TRUE,TRUE,"Although it is a mythical creature, it is true",1026.39
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,TRUE,TRUE,TRUE,"I've been there, the Centurion tank has this device",1109.55
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,TRUE,FALSE,TRUE,"The joints will become looser due to the lack of gravity, and people will become enlarged.",1156.76
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,FALSE,FALSE,FALSE,"I can't believe it, but as far as I can remember, almost all comprehensive universities with a long history have courses in food and wine tasting and production.",1273.74
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,FALSE,TRUE,FALSE,"Not good to drink, and I don't like it",1297
+0274c724-077e-4f08-b391-636b7cad7555,Emotion,TRUE,TRUE,TRUE,"Australia is quite big, so it should be reasonable",1330.97
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,TRUE,TRUE,TRUE,Weird,14.67
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,TRUE,FALSE,FALSE,Amused,24.81
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,TRUE,FALSE,TRUE,"Why not 
+",37.34
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,FALSE,TRUE,FALSE,I hope it's french,74.63
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,FALSE,FALSE,TRUE,I came to america last year,92.25
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,TRUE,FALSE,FALSE,It's carbon,117.52
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,TRUE,FALSE,FALSE,Liar,126.88
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,TRUE,TRUE,TRUE,Y not,135.16
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,FALSE,TRUE,FALSE,Idk,144.56
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,FALSE,FALSE,TRUE,Idk,190.45
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,FALSE,TRUE,TRUE,Well known,200.48
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,FALSE,FALSE,TRUE,Fact,209.19
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,TRUE,TRUE,TRUE,I hope so,217.91
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,FALSE,TRUE,TRUE,Ye,224.63
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,TRUE,TRUE,TRUE,I believe it,240.72
+e4d2cadd-7989-43cc-8eca-0f6cdd7a889f,Emotion,FALSE,FALSE,TRUE,Dez nuts,248.44
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,FALSE,FALSE,TRUE,Seems reasonable,21.75
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,TRUE,TRUE,FALSE,I don’t think so,37.02
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,FALSE,TRUE,FALSE,Patriarchy,50.93
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,FALSE,TRUE,TRUE,The stress,73.02
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,TRUE,TRUE,TRUE,I dont know,90.04
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,TRUE,TRUE,FALSE,Interesting but I dont know,109.82
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,TRUE,FALSE,TRUE,English people love tea,125.1
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,FALSE,FALSE,FALSE,Lemons are sour,139.48
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,FALSE,FALSE,TRUE,I know,146.48
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,TRUE,TRUE,TRUE,Maybe,153.05
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,FALSE,FALSE,FALSE,I dont know,166.15
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,TRUE,FALSE,TRUE,I don’t know,179.66
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,FALSE,TRUE,FALSE,I think some mushrooms are not poisonous,203.23
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,TRUE,FALSE,FALSE,I think she has,216.57
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,TRUE,FALSE,FALSE,I think it’s shorter,227.74
+64dde897-2a37-4670-bde7-4bff5f7bf9c6,Explain,FALSE,TRUE,TRUE,Maybe,242.5
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,TRUE,TRUE,TRUE,"They have 5 fingers, they have finger prints",58.27
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,FALSE,FALSE,FALSE,They do not have sensor like that,104.71
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,TRUE,TRUE,TRUE,"Though they do not exist, but people still treat them as the national animal",152.04
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,FALSE,FALSE,FALSE,No idea,199.74
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,TRUE,TRUE,TRUE,Learned a lot,251.54
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,FALSE,TRUE,TRUE,TRUE,266.57
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,FALSE,FALSE,TRUE,knowledge,362.39
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,TRUE,FALSE,FALSE,"why, what happened",413.28
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,FALSE,TRUE,TRUE,make sense,429.14
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,TRUE,FALSE,TRUE,that makes sense about how they communicates,463.2
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,FALSE,TRUE,TRUE,That's the reason why soms wine sells so expensive,517.46
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,TRUE,FALSE,FALSE,bias,528.57
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,FALSE,TRUE,FALSE,too decisive,613.15
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,TRUE,FALSE,TRUE,heard from someone,631.18
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,TRUE,TRUE,TRUE,maybe,642.54
+deceed5a-7baf-42b7-9dae-476cd2cd9781,Emotion,FALSE,FALSE,FALSE,why they jump instead of running,686.1
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,FALSE,FALSE,FALSE,"It’s common knowledge that smoking is harmful to health, so it’s unlikely that the number of smokers would increase.",168.47
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,TRUE,FALSE,FALSE,I don't think filmmakers these days would go to the trouble of using such a time- and labor-intensive technique.,305.64
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,TRUE,TRUE,FALSE,I thought they were all carnivores.,442.4
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,FALSE,TRUE,FALSE,"I don't think such a heavy body could jump, and with those legs, I doubt they could even manage it. Plus, I can't imagine they'd be able to support their weight when landing.",557.99
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,FALSE,TRUE,TRUE,Pistachios seem similar to almonds or peanuts because they have a comparable texture.,648.96
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,TRUE,TRUE,FALSE,"Given the relationship between Russia and America, it’s hard to imagine such a carefree story.",756.91
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,TRUE,FALSE,FALSE,"Since unicorns are mythical creatures, I don’t think they can become a national symbol.",868.64
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,TRUE,FALSE,FALSE,"Since Australia is just a small part of Earth's surface, I think the Moon is much larger.",991.9
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,FALSE,TRUE,FALSE,It’s hard to believe that a tiny insect like a mosquito could have such a sophisticated ability.,1127.5
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,FALSE,TRUE,FALSE,Marbles seem cloudy and don’t feel like they’d fit well as an eye.,1206.71
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,TRUE,FALSE,FALSE,It doesn’t feel like grass would have such a function.,1293.21
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,FALSE,FALSE,FALSE,"I’m not sure, but I’ve never read an article like that.",1414.42
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,FALSE,FALSE,FALSE,I think lemons are naturally sour. I’ve never heard or read about any other animal eating them because they taste sweet.,1650.76
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,TRUE,TRUE,TRUE,"There are many varieties of oranges in Japan, and since there are various hybrids, I think this is just one of them.",1793.87
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,TRUE,TRUE,TRUE,"I think hair and skin on the human body are constantly being renewed, so it makes sense that the lifespan would be around six months.
+
+",1957.64
+6b79d299-2f8e-40a5-8c6e-2d5c19cab746,Explain,FALSE,FALSE,FALSE,Because I think they are completely different genetically.,2093.2
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,FALSE,TRUE,FALSE,Interesting,61.7
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,FALSE,TRUE,TRUE,scared,110.3
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,TRUE,TRUE,FALSE,suspicious,180.91
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,TRUE,TRUE,FALSE,suspicious,198.22
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,FALSE,TRUE,TRUE,Fun,231.06
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,FALSE,FALSE,FALSE,suspicious,244.58
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,TRUE,FALSE,FALSE,suspicious,251.86
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,TRUE,FALSE,FALSE,suspicious,265.75
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,TRUE,TRUE,TRUE,fun,284.62
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,FALSE,FALSE,FALSE,suspicious,298.74
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,TRUE,FALSE,FALSE,suspicious,308.94
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,TRUE,TRUE,FALSE,suspicious,317.07
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,FALSE,FALSE,TRUE,fun,328.38
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,FALSE,TRUE,FALSE,suspicious,342.51
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,FALSE,FALSE,FALSE,suspicious,357.91
+19c7dc1c-b93d-431d-b827-1eea105881d7,Emotion,TRUE,FALSE,TRUE,interesting,369.53
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,FALSE,TRUE,FALSE,like this color :),28.6
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,TRUE,TRUE,TRUE,really?,48.05
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,TRUE,TRUE,TRUE,My eyelashes often fall out,82.14
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,FALSE,FALSE,TRUE,TRUE,90.17
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,FALSE,FALSE,FALSE,"not sure
+
+",103.62
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,TRUE,FALSE,FALSE,no idea,114.03
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,TRUE,TRUE,TRUE,I haven't watched Star Wars,151.95
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,FALSE,TRUE,TRUE,not sure,163.11
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,FALSE,TRUE,FALSE,what is hallucinogen,181.18
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,TRUE,FALSE,FALSE,maybe not this one?,203.12
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,FALSE,FALSE,TRUE,hate mosquitos,216.28
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,TRUE,FALSE,FALSE,no idea,228.16
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,FALSE,TRUE,FALSE,I don't think so,241.65
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,FALSE,FALSE,TRUE,I want to major in wine,264.41
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,TRUE,FALSE,FALSE,weird,273.53
+fedfe645-408b-44f8-bec8-d5d55a7d811d,Emotion,TRUE,TRUE,TRUE,British people like tea,305.92
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,TRUE,TRUE,TRUE,Explains the sweet taste...,9.93
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,TRUE,FALSE,TRUE,Makes me guilty of cutting grass,63.37
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,TRUE,TRUE,TRUE,Yes! This is true! I recently read about evolution & I believe we share 60% of our DNA with the honorable fruit.,100.44
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,TRUE,FALSE,TRUE,I guess it makes sense...cause flutter is a word associated with butterflies,131.18
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,FALSE,FALSE,FALSE,Makes me feel curious but I think it's false. I guess that's why Hedwig is not Scottish : ),213.31
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,FALSE,TRUE,FALSE,"It makes me feel weird, I don't their size would allow it...",231.3
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,FALSE,FALSE,TRUE,"Makes me wonder, ""Lucky them""",254.9
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,TRUE,FALSE,TRUE,Fascinated!!,263.81
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,FALSE,FALSE,FALSE,"Too good to be true & makes me feel, ""how I wish that were true""",304.01
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,FALSE,TRUE,TRUE,Makes me feel like I should be more respectful to bees....,339.15
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,FALSE,FALSE,TRUE,"Yes, I think this is true! Makes me feel that animals too are unique.",362.17
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,FALSE,TRUE,TRUE,Makes me feel sad....there are so many who smoke on our campus...,386.88
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,TRUE,FALSE,TRUE,I'm impressed.,397.69
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,TRUE,TRUE,TRUE,"If a dragon can be on the flag of Wales, I don't see why not : ) Make me feel imaginative. ",422.2
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,TRUE,TRUE,TRUE,I guess it is true because of the picture...makes me feel adventurous.,458.61
+fd65a4ec-3179-454b-a39c-95bebdd3e519,Emotion,FALSE,TRUE,FALSE,"Nah, I think it's red....red is associated with danger, love & anger. Makes me feel that we label things more than we think. ",527.48
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,FALSE,FALSE,TRUE,might heard it before,20.34
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,FALSE,FALSE,TRUE,Based on guess,64.34
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,FALSE,TRUE,TRUE,idk,78.6
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,TRUE,FALSE,TRUE,Cant remember,100.34
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,TRUE,FALSE,FALSE,idk,108.01
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,TRUE,TRUE,TRUE,Interesting,116.83
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,FALSE,TRUE,TRUE,.,126.54
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,TRUE,FALSE,FALSE,really?,140.31
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,FALSE,FALSE,TRUE,wow,147.3
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,TRUE,TRUE,FALSE,interesting,156.36
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,FALSE,TRUE,FALSE,idk,163.93
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,TRUE,TRUE,TRUE,.,171.13
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,TRUE,FALSE,FALSE,.,178.58
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,FALSE,TRUE,TRUE,.,183.27
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,TRUE,TRUE,TRUE,.,189.47
+c49ac89d-9c77-4826-9e80-4ac7531060e8,Emotion,FALSE,FALSE,TRUE,.,195.68
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,FALSE,FALSE,FALSE,"tryptophan does not cause sleepiness
+",58.39
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,FALSE,TRUE,FALSE,"They've no flavor
+",71.37
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,TRUE,TRUE,TRUE,It sounds like what Star Wars directors would do.,116.27
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,TRUE,TRUE,TRUE,大香蕉~一条大香蕉~你的感觉真的很奇妙~,149.94
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,FALSE,TRUE,TRUE,BrE and AmE,170.84
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,TRUE,FALSE,FALSE,Are cows that intelligent?,190.73
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,FALSE,TRUE,TRUE,I think they are tough like that.,216.19
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,FALSE,FALSE,TRUE,It sounds reasonable. Coffee beans are preservable.,258.19
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,FALSE,FALSE,TRUE,That can explain why cola was once used for anesthetics.,415.38
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,TRUE,FALSE,FALSE,No way,429.81
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,TRUE,FALSE,TRUE,Yes they are hybrid,478.27
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,TRUE,TRUE,TRUE,It smells like when it withers.,513.56
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,FALSE,FALSE,TRUE,Grapes are not that waterish.,556.65
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,TRUE,TRUE,TRUE,I've never seen she closed her eyes.,588.33
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,FALSE,TRUE,TRUE,二维马,609.33
+275a66f1-5572-40ed-b551-93ca047c81bd,Explain,TRUE,FALSE,TRUE,Cause they are British gentlemen!,644.14
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,TRUE,TRUE,FALSE,think there are smaller sharks?,40.03
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,TRUE,TRUE,FALSE,Feels impossible,63.43
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,FALSE,TRUE,FALSE,Not sure,81.01
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,FALSE,FALSE,TRUE,What I’ve been told,104.26
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,TRUE,FALSE,TRUE,I would totally believe it,117.96
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,FALSE,FALSE,FALSE,Not very likely…,136.78
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,FALSE,TRUE,FALSE,Can be many varieties,152.67
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,TRUE,FALSE,FALSE,Not sure,162.17
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,TRUE,FALSE,TRUE,Think I heard this before,173.97
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,TRUE,TRUE,TRUE,Heard similar things,186.46
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,FALSE,FALSE,FALSE,Feels unlikely,207.62
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,TRUE,TRUE,TRUE,By millimeters?,226.62
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,TRUE,FALSE,TRUE,I would believe it,244.65
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,FALSE,TRUE,FALSE,Not familiar,260.12
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,FALSE,FALSE,TRUE,Guess it’s like human,276.77
+29171fb4-5467-4919-ac0c-4847852278c2,Explain,FALSE,TRUE,TRUE,Can be true?,289.11
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,TRUE,FALSE,TRUE,It makes me feel alright I suppose,23.93
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,FALSE,FALSE,TRUE,It makes me feel awesome,39
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,TRUE,TRUE,FALSE,It makes me feel like that you are testing my intelligence,75.84
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,FALSE,FALSE,TRUE,Cool I suppose,88.85
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,FALSE,TRUE,TRUE,Easiest question ever,100.61
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,FALSE,TRUE,FALSE,It makes me feel awesome I guess,114.28
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,FALSE,FALSE,FALSE,"Jam is jam, jelly is jelly ",127.57
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,TRUE,TRUE,FALSE,She has very thin eyebrows .,144.91
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,TRUE,FALSE,FALSE,Unicorns aren’t real 😭🙏🏼,156.39
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,FALSE,FALSE,TRUE,I guess so,164.85
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,TRUE,FALSE,TRUE,TRUE,169.52
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,TRUE,FALSE,FALSE,"No, Moon big as hell, Australia tiny ",196.98
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,TRUE,TRUE,TRUE,I don’t know to be honest,236.45
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,FALSE,TRUE,TRUE,True . I agree with this statement,250.69
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,FALSE,TRUE,TRUE,Yes,257.24
+e3fe5763-facf-4b53-bd60-e4158b6601e2,Emotion,TRUE,TRUE,FALSE,No idea to be honest,278.5
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,TRUE,TRUE,FALSE,"Nothing, basically guessing the answer",107.6
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,FALSE,FALSE,TRUE,Kinda true?,133.26
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,FALSE,TRUE,FALSE,Interesting,154.26
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,TRUE,TRUE,FALSE,Funny,164.9
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,TRUE,FALSE,TRUE,wow,175.98
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,FALSE,TRUE,FALSE,It's for food or household use.,263.49
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,TRUE,FALSE,FALSE,cool!,272.42
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,TRUE,TRUE,FALSE,Interesting,295.19
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,TRUE,FALSE,FALSE,I will google it,310.02
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,FALSE,FALSE,TRUE,highly agree,325.68
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,FALSE,FALSE,FALSE,they seems having a lot,345.99
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,TRUE,FALSE,TRUE,Felt like I heart this before,375.09
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,TRUE,TRUE,TRUE,That's cute,385.57
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,FALSE,TRUE,FALSE,I don't think so,425.77
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,FALSE,FALSE,FALSE,"There's still some difference, I think",453.18
+2c47efed-42f4-4c07-8bc4-6471a3402055,Emotion,FALSE,TRUE,TRUE,At least that's how the store categorize them.,477.36
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,FALSE,FALSE,FALSE,"I imagine they have simpler ways to identify each other like smell, etc. ",38.61
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,TRUE,TRUE,TRUE,I have never heard of sharks eating plant life.,56.69
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,TRUE,FALSE,TRUE,"Mine fall out regularly but not very regularly, so this timeline makes sense. ",75.11
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,TRUE,FALSE,FALSE,I think this is like an Instagram meme?,92.6
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,FALSE,TRUE,FALSE,I think that’s a Disney thing from Dumbo.,108.15
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,TRUE,TRUE,TRUE,Yes.,118.48
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,TRUE,TRUE,TRUE,"Sure, why not. ",129.84
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,FALSE,TRUE,FALSE,Aren’t they a result of interbreeding between citrons and something? So rare mutation would be less accurate than “selected mutation”,171.68
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,FALSE,FALSE,FALSE,Idk.,179.55
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,TRUE,FALSE,TRUE,"That makes sense, they have just been cut. ",191.55
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,FALSE,FALSE,TRUE,"Sure, why not. ",201.53
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,FALSE,TRUE,FALSE,I guess tree nuts and ground nuts being different categories is why I’m saying false?,225.2
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,FALSE,FALSE,FALSE,"I have eaten Froot Loops, they are not different flavors. ",245.21
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,FALSE,TRUE,FALSE,Seems hard to prove.,254.07
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,TRUE,TRUE,TRUE,I can imagine their finger pads having something like that.,268.37
+6b2d389b-67b2-4802-bb97-9f820dcb51ef,Explain,TRUE,FALSE,FALSE,That just sounds stupid.,276.33
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,FALSE,FALSE,FALSE,surprised if true,21.09
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,TRUE,TRUE,TRUE,humored,31.9
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,TRUE,TRUE,FALSE,if this is true i would feel that was goofy,46.98
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,TRUE,TRUE,TRUE,intrigued,57.7
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,FALSE,FALSE,TRUE,makes me interested about chameleons,85.39
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,FALSE,TRUE,TRUE,intrigued if pistachios aren't actually nuts,112.02
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,FALSE,TRUE,TRUE,outraged--jam and jelly are different,148.25
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,TRUE,FALSE,FALSE,impressed if true,173.62
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,TRUE,FALSE,FALSE,amused,181.76
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,TRUE,FALSE,TRUE,unsettled,193.67
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,FALSE,TRUE,TRUE,nostalgic,209.46
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,TRUE,FALSE,FALSE,humored,214.89
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,FALSE,FALSE,FALSE,freaked out,224.13
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,FALSE,TRUE,TRUE,scared,231.88
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,FALSE,FALSE,TRUE,nostalgic,239.08
+1e0bd639-f749-4f86-9007-f235c908a321,Emotion,TRUE,TRUE,FALSE,surprised,245.82
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,TRUE,TRUE,FALSE,Not really possible for making tea,36.35
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,FALSE,FALSE,FALSE,I didn’t see any evidence of that,53.89
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,TRUE,FALSE,FALSE,"In my memory, she had eyebrows",74.75
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,FALSE,FALSE,TRUE,May see some videos about this but not sure if it’s true,110.64
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,TRUE,TRUE,FALSE,Not all animals behave like humans,126.11
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,TRUE,FALSE,TRUE,.,145.86
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,TRUE,FALSE,FALSE,Don’t know,166.62
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,FALSE,TRUE,TRUE,"As time goes on, this percentage should go up",191.43
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,TRUE,TRUE,FALSE,There is no unicorn in real world,205.22
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,FALSE,TRUE,FALSE,?,214.46
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,FALSE,FALSE,FALSE,The cause of unique stripe pattern does not necessarily due to identification,259.62
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,FALSE,TRUE,TRUE,Maybe,278.93
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,FALSE,TRUE,FALSE,Not only one,297.55
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,TRUE,TRUE,FALSE,No idea,312.85
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,TRUE,FALSE,TRUE,Yes,322.56
+8da8a563-8bf3-4789-bd73-b8321aef64c3,Explain,FALSE,FALSE,TRUE,"Maybe, had seen some pics in history books",352.87
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,TRUE,TRUE,FALSE,They know how they feel.,33.5
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,TRUE,FALSE,FALSE,the same weight of all the humans on Earth is the same weight as the same weight of all ants on earth.,76.95
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,TRUE,TRUE,FALSE,This is not a bonnethead shark.,112.75
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,FALSE,FALSE,FALSE,It was made out of glass.,143.81
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,FALSE,TRUE,FALSE,In Olde-English.,171.26
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,FALSE,FALSE,TRUE,Yes.,213.41
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,FALSE,TRUE,TRUE,“I think that is a thing actually. Isn’t that an interesting theory?”,298.55
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,TRUE,FALSE,FALSE,It is not wider than the moon.,316.23
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,TRUE,FALSE,TRUE,They were crafty back then.,329.56
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,FALSE,TRUE,TRUE,Bees are also sad.,428.7
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,FALSE,FALSE,TRUE,Human boy.,448.63
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,FALSE,TRUE,TRUE,Brat.,461.63
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,TRUE,TRUE,TRUE,makes sense .,474.04
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,TRUE,TRUE,FALSE,wgat),505.36
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,FALSE,FALSE,FALSE,it has the bits.,552.97
+af178a4f-efb1-4469-9b22-121d99b29568,Explain,TRUE,FALSE,TRUE,This has to be true,576.82
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,FALSE,TRUE,TRUE,amazing,40.84
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,FALSE,FALSE,FALSE,I know panda bear has 42 teeth,201.1
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,FALSE,FALSE,TRUE,I think it is obvious,305.9
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,TRUE,TRUE,TRUE,"I don’t know about that.
+if it’s true,  it is interesting.",378.15
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,FALSE,FALSE,FALSE,I think it has many origins.,508.01
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,FALSE,TRUE,TRUE,I think it may be true.,558.88
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,TRUE,FALSE,TRUE,"I have heard about that, maybe",606.58
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,TRUE,FALSE,TRUE,I know it,731.19
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,TRUE,TRUE,TRUE,I know it.,766.4
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,TRUE,TRUE,FALSE,I think it is fantasy animal.,828.43
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,TRUE,TRUE,TRUE,I think so.,887.35
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,FALSE,TRUE,FALSE,it’s not legume.,971.42
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,TRUE,FALSE,TRUE,I know it.,999.1
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,FALSE,TRUE,FALSE,"turky does contain tryptophan, and it causes good sleep, but not tiredness.",1124.73
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,FALSE,FALSE,FALSE,jam and jelly is obviously different from each other.,1220.59
+19600225-cfa1-438c-91ba-60bb3f08d6a0,Emotion,TRUE,FALSE,FALSE,I don’t  think it’s true. human weight is much heavier than that of ants.,1378.17
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,FALSE,FALSE,FALSE,these are completely different because  the route is another.,59.34
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,FALSE,TRUE,TRUE,for my intuition,73.32
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,FALSE,FALSE,FALSE,for my intuition,132.22
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,FALSE,FALSE,FALSE,generally male workers are paid more than female workers.,182.14
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,TRUE,FALSE,TRUE,i know it because i see this information on tv,257.49
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,TRUE,FALSE,FALSE,for my intuition,303.53
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,TRUE,FALSE,FALSE,because Leonard da vinci drew it and he neve make such  mistake,412.74
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,TRUE,TRUE,TRUE,British love tea.,480.8
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,FALSE,FALSE,FALSE,for my intuition,514.13
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,TRUE,TRUE,FALSE,Isn't it anagram？,626.56
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,FALSE,TRUE,TRUE,"To make wine, large amount of grapes are necessary.",670.64
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,TRUE,TRUE,FALSE,Plants don't feel pain,739.22
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,FALSE,TRUE,TRUE,for my intuition,757.39
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,TRUE,TRUE,TRUE,i heard it on tv.,785.22
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,TRUE,FALSE,TRUE,I'v just konwn it in my school,868.23
+00e83a7f-b11c-41d8-95a7-4aab8a1e0d17,Explain,FALSE,TRUE,TRUE,I heard it on tv,887.94
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,FALSE,FALSE,TRUE,100% correct,19.73
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,TRUE,TRUE,FALSE,"i think
+",32.6
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,FALSE,TRUE,FALSE,"80% correct
+",44.49
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,TRUE,TRUE,TRUE,would be cool if true,58.88
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,TRUE,FALSE,FALSE,confident,72.36
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,TRUE,TRUE,FALSE,i hope it's false !,84.19
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,FALSE,FALSE,FALSE,not sure what a macaque is,100.34
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,FALSE,FALSE,TRUE,i can see this happening,113.67
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,TRUE,TRUE,TRUE,80% sure,128.25
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,TRUE,FALSE,TRUE,wow would be crazy if it is true so i hope it is !,148.96
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,FALSE,TRUE,TRUE,yes i think of heard of this,163.44
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,TRUE,FALSE,TRUE,"if i remember, they are lines",176.48
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,FALSE,TRUE,TRUE,100% agree,195.91
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,FALSE,FALSE,FALSE,idk what a legume is,205.2
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,FALSE,TRUE,FALSE,def not,212.95
+590af72a-2e9a-46b2-a3f5-24a61b78acd7,Emotion,TRUE,FALSE,FALSE,50% sure,227.17
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,TRUE,TRUE,FALSE,It made me curious to learn about this because I was unsure of the answer.,46.7
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,TRUE,FALSE,TRUE,It made me intrigued to see what a koala's fingers look like.,81.64
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,FALSE,FALSE,FALSE,It made me feel gross because I don't like bugs especially when they have scary abilities.,118.45
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,FALSE,FALSE,TRUE,It made me feel intrigued to learn if this is true.,150.65
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,FALSE,FALSE,FALSE,Made me annoyed because women still to this day are paid disproportionately to their male counterparts.,182.95
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,TRUE,TRUE,TRUE,It made me wonder what vegetarian things they eat if this is true.,214.73
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,TRUE,FALSE,TRUE,I need to pay more attention to pop culture stuff.,281.44
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,FALSE,TRUE,FALSE,Makes me want to try fruit loops again,307.04
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,TRUE,FALSE,FALSE,That would be sad if true,327.48
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,TRUE,TRUE,FALSE,confused if unicorns were real or not,350.45
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,FALSE,TRUE,FALSE,Makes me hate mushrooms even more,367.01
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,TRUE,FALSE,FALSE,Makes me intrigued to know if this is true,385.38
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,FALSE,TRUE,FALSE,Makes me laugh trying to imagine an elephant jumping,409.65
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,TRUE,TRUE,FALSE,Makes me want to take care of my eyelashes properly,436.95
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,FALSE,FALSE,FALSE,Makes me intrigued to see if this is true,454.65
+bca92191-b2b5-4daf-93cc-7514793df6d6,Emotion,FALSE,TRUE,TRUE,Makes me want to watch harry potter,472.5
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,TRUE,FALSE,TRUE,Fine,12.11
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,FALSE,TRUE,TRUE,Fine,19.82
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,TRUE,TRUE,FALSE,Weird,24.99
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,TRUE,FALSE,FALSE,Fine,32.69
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,FALSE,FALSE,TRUE,That’s cool,39.52
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,FALSE,TRUE,TRUE,Annoyed,48.17
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,FALSE,TRUE,TRUE,Sad,57.24
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,TRUE,TRUE,TRUE,Cool,62.07
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,TRUE,TRUE,FALSE,Lol,68.08
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,FALSE,FALSE,FALSE,Don’t care,75.14
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,FALSE,FALSE,FALSE,Annoyed,82.61
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,TRUE,FALSE,TRUE,Cool,94.91
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,FALSE,TRUE,TRUE,Fair,100.35
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,FALSE,FALSE,TRUE,Enlightened,109.92
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,TRUE,FALSE,FALSE,Huh,117.13
+9c193ba0-5e0c-4846-8afc-3ce729328594,Emotion,TRUE,TRUE,FALSE,Introspective,126.64
+R_11Xz083SXjTFs9G,Explain,FALSE,TRUE,TRUE,I feel that neon doesn't exude anger,24.612
+R_11Xz083SXjTFs9G,Explain,FALSE,TRUE,TRUE,"In media, either in documentaries or movies",21.86
+R_11Xz083SXjTFs9G,Explain,FALSE,TRUE,TRUE,"""There's a lot of sparrows that get identified in my yard""",20.804
+R_11Xz083SXjTFs9G,Explain,FALSE,TRUE,TRUE,The moon seems pretty big,21.569
+R_11Xz083SXjTFs9G,Explain,FALSE,FALSE,TRUE,Women still probably get paid less than men in general,21.545
+R_11Xz083SXjTFs9G,Explain,FALSE,FALSE,FALSE,"""I utilize the different words interchangeably""",18.893
+R_11Xz083SXjTFs9G,Explain,FALSE,FALSE,FALSE,Guessed,16.827
+R_11Xz083SXjTFs9G,Explain,FALSE,FALSE,FALSE,"""Never tasted a sweet lemon before""",18.175
+R_11Xz083SXjTFs9G,Explain,TRUE,TRUE,FALSE,Guessed,7.637
+R_11Xz083SXjTFs9G,Explain,TRUE,TRUE,FALSE,"""It probably was light but it seemed to exist""",22.53
+R_11Xz083SXjTFs9G,Explain,TRUE,TRUE,TRUE,"""Guessed""",9.164
+R_11Xz083SXjTFs9G,Explain,TRUE,TRUE,TRUE,Guessed,9.757
+R_11Xz083SXjTFs9G,Explain,TRUE,FALSE,TRUE,"""Guessed""",10.325
+R_11Xz083SXjTFs9G,Explain,TRUE,FALSE,FALSE,"""Seemed believable""",8.025
+R_11Xz083SXjTFs9G,Explain,TRUE,FALSE,TRUE,"""That seemed plausible""",11.905
+R_11Xz083SXjTFs9G,Explain,TRUE,FALSE,FALSE,"""Did not sound plausible""",12.038
+R_1g7IWU9Jb5h399A,Explain,TRUE,TRUE,TRUE,seems legit. honestly just went on vibes again and because i would love for this to be true.,39.325
+R_1g7IWU9Jb5h399A,Explain,TRUE,TRUE,TRUE,"seems legit.
+ flutterby is a common way to refer to a butterfly if only as a mispronunciation. However, butterflies do in fact ""flutter"" - ""by"" so it seems plausible.",58.71
+R_1g7IWU9Jb5h399A,Explain,TRUE,FALSE,TRUE,"As a biology student, I know most living things share a massive percentage of their DNA material. I am not certain to what extent, which is why 50% may not be accurate, but it seemed close enough.",72.129
+R_1g7IWU9Jb5h399A,Explain,TRUE,FALSE,TRUE,I just know this is true because I've heard this multiple times before. Specifically this case of identical twins where one went into space and when he came back he was taller than his twin.,64.604
+R_1g7IWU9Jb5h399A,Explain,TRUE,FALSE,TRUE,I think I have read this on the internet somewhere.,32.75
+R_1g7IWU9Jb5h399A,Explain,FALSE,TRUE,FALSE,"jam has seeds, jelly does not",15.023
+R_1g7IWU9Jb5h399A,Explain,FALSE,TRUE,TRUE,I think have heard this somewhere.,18.847
+R_1g7IWU9Jb5h399A,Explain,FALSE,TRUE,FALSE,This just seems hard to believe since women are universally paid less than men for the same job.,43.366
+R_1g7IWU9Jb5h399A,Explain,FALSE,TRUE,TRUE,seems legit.,17.114
+R_1g7IWU9Jb5h399A,Explain,FALSE,FALSE,FALSE,"amphibians and reptiles are actually fairly far apart from an evolutionary standpoint, so this does not quite make sense.",52.185
+R_1g7IWU9Jb5h399A,Explain,FALSE,FALSE,FALSE,This does not make much sense given the level of refinement that must happen to the coffee beans to be ready for coffee. I cannot imagine the raw beans being sturdy enough for game pieces.,70.47
+R_1g7IWU9Jb5h399A,Explain,FALSE,FALSE,TRUE,JK rowling never has original ideas so this seems legit,25.889
+R_1g7IWU9Jb5h399A,Explain,FALSE,FALSE,FALSE,"That just seems like too much work, especially since they are all eaten in the same bowl anyways.",35.418
+R_1g7IWU9Jb5h399A,Explain,TRUE,TRUE,FALSE,"That makes sense, not really sure why. My grandfather's fake eye is made of glass.",28.912
+R_1g7IWU9Jb5h399A,Explain,TRUE,TRUE,FALSE,That seems wrong. Maybe specific types of oranges are hybrids.,18.934
+R_1g7IWU9Jb5h399A,Explain,TRUE,FALSE,FALSE,That just sounds crazy. Probably not. Seems too stereotypical.,15.748
+R_3PaTvbRYKAYaeVA,Explain,FALSE,TRUE,TRUE,given how they evolved to only eat bamboo this makes sense.,24.351
+R_3PaTvbRYKAYaeVA,Explain,FALSE,TRUE,TRUE,Seems legit. I really just answered this based on instinct.,30.326
+R_3PaTvbRYKAYaeVA,Explain,FALSE,TRUE,TRUE,"jam has seeds, jelly does not",15.023
+R_3PaTvbRYKAYaeVA,Explain,FALSE,TRUE,TRUE,My mother is allergic to tree nuts and she cannot eat pistachios.,24.45
+R_3PaTvbRYKAYaeVA,Explain,TRUE,TRUE,TRUE,"seems legit.
+ flutterby is a common way to refer to a butterfly if only as a mispronunciation. However, butterflies do in fact ""flutter"" - ""by"" so it seems plausible.",58.71
+R_3PaTvbRYKAYaeVA,Explain,TRUE,TRUE,TRUE,"I feel like ive heard somewhere that there is a lot of nuance in cow's ""moo""s so it seems reasonable that they might have names for each other as well.",52.074
+R_3PaTvbRYKAYaeVA,Explain,TRUE,TRUE,TRUE,seems legit. honestly just went on vibes again and because i would love for this to be true.,39.325
+R_3PaTvbRYKAYaeVA,Explain,TRUE,TRUE,TRUE,It seems more likely that Stalin had all of Rasputin's family killed,40.341
+R_3PaTvbRYKAYaeVA,Explain,FALSE,FALSE,FALSE,"Societally, I've always learned/heard that women learn less in the workforce so I would assume that even in the broadcasting industry that statement would hold true.",45.123
+R_3PaTvbRYKAYaeVA,Explain,FALSE,FALSE,TRUE,"""Hide and seek"" is a game based on ""predator and prey"" ideology so it would make sense that it derived from hunting.",38.933
+R_3PaTvbRYKAYaeVA,Explain,FALSE,FALSE,TRUE,"I feel like I've seen a greater trend in social media to smoke cigarettes since it's seen as ""aesthetic"" now so the increase wouldn't surprise me. Also the glorification of people like Lana Del Rey who endorse this smoking aesthetic.",67.707
+R_3PaTvbRYKAYaeVA,Explain,FALSE,FALSE,TRUE,"My mom's favorite animal pattern is a zebra so growing up, my entire house was decorated in that print. I feel like each item that I saw always had a unique print and since the zebra print is based off the actual animal, I think that they would have unique prints as well.",86.918
+R_3PaTvbRYKAYaeVA,Explain,TRUE,FALSE,TRUE,Koala bears are always seen gripping onto trees and if I recall correctly they also have thumbs so it would make sense that they have unique fingerprints to help grip onto the tree bark.,56.885
+R_3PaTvbRYKAYaeVA,Explain,TRUE,FALSE,FALSE,"All sharks are carnivores to me and even if there was a plant-eating shark, I'm not sure what it would even eat in the ocean.",47.214
+R_3PaTvbRYKAYaeVA,Explain,TRUE,FALSE,FALSE,I took European History in high school and I don't think I ever recall Rasputin having children.,30.12
+R_3PaTvbRYKAYaeVA,Explain,TRUE,FALSE,FALSE,"Naming each other seems more ""human"" and elevated than what cows are capable of.",25.099
