@@ -4,6 +4,7 @@
 
 This study investigates the impact of nonprobative photos and the requirement for explanations on judgment accuracy and response times in evaluating trivia statements. Previous research has shown that nonprobative photos can enhance the perceived truthfulness of claims. We explore whether demanding explanations for judgments counteracts this photo effect. Participants were randomly assigned into two groups: one providing explanations for their judgments (Explain group) and another expressing emotional responses (Emotion group). We hypothesized that the Explain group would show a reduced influence of nonprobative photos on judgment accuracy and response time. Our findings, however, revealed no significant interaction between photo presence and explanation requirement on judgment accuracy. Interestingly, nonprobative photos significantly affected response times, suggesting their influence on cognitive processing speed.
 
+### Collaborators
 - Ziyue Gao (ziyuegao0302)  
 - Keito Taketomi (kt2849)  
 - Anqi Wu (Owner of this repo, WAWQAQMAKABAKA)  
