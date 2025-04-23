@@ -1,4 +1,4 @@
-## Project 3 - Experiment Web App "Test Your Trivia Knowledge!" 
+## Project 3 - Experiment Web App "Test Your Trivia Knowledge!" <br>
 
 -- The Effect of Explanation and Nonprobative Photos on Perceived Truthfulness
 
