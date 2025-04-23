@@ -1,8 +1,7 @@
-## Project 3 - Psychology Experiment Web App
+## Project 3 - Experiment Web App "Test Your Trivia Knowledge!" -- The Effect of Explanation and Nonprobative Photos on Perceived Truthfulness
 
-This repository contains the source code for a psychology experiment web app designed to test the influence of nonprobative photos and explanatory reasoning on truth judgments.
+This study investigates the impact of nonprobative photos and the requirement for explanations on judgment accuracy and response times in evaluating trivia statements. Previous research has shown that nonprobative photos can enhance the perceived truthfulness of claims. We explore whether demanding explanations for judgments counteracts this photo effect. Participants were randomly assigned into two groups: one providing explanations for their judgments (Explain group) and another expressing emotional responses (Emotion group). We hypothesized that the Explain group would show a reduced influence of nonprobative photos on judgment accuracy and response time. Our findings, however, revealed no significant interaction between photo presence and explanation requirement on judgment accuracy. Interestingly, nonprobative photos significantly affected response times, suggesting their influence on cognitive processing speed.
 
-### Collaborators
 - Ziyue Gao (ziyuegao0302)  
 - Keito Taketomi (kt2849)  
 - Anqi Wu (Owner of this repo, WAWQAQMAKABAKA)  
@@ -58,7 +57,7 @@ streamlit run experiment_app.py
 This project was conducted for educational purposes as part of a course assignment. No formal IRB approval was obtained, but ethical guidelines were followed with informed consent and a debriefing section included in the app.
 
 ### Live Demo (if applicable)
-If deployed: [[Streamlit Cloud link goes here](https://project35243-6yvhmwmldeqrn63pytqunj.streamlit.app/)]
+Deployed on Streamlit Cloud: [[Streamlit Cloud link here](https://project35243-6yvhmwmldeqrn63pytqunj.streamlit.app/)]
 
 ---
 
