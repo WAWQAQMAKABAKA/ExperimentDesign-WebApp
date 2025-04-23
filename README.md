@@ -19,6 +19,7 @@ Project3_5243/
 ├── stimuli.json               # Contains all trivia statements and metadata
 ├── image_folder/              # Folder of images referenced in the study
 ├── result.csv                 # Data output file from completed participant responses
+├── Analysisv1.ipynb           # Statistical analysis and visualization notebook
 ├── requirements.txt           # Python dependencies
 └── README.md                  # You are here
 ```
